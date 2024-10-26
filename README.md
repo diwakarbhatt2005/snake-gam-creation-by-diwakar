@@ -1,1 +1,1 @@
-# snake-gam-creation-by-diwakar
+# snake-game-creation-by-diwakar
